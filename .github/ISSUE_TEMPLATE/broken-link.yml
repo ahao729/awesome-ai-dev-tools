@@ -1,0 +1,11 @@
+name: 链接失效或内容纠错
+description: 帮助修正清单中的链接和说明
+title: "[纠错] "
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题条目与修正建议
+      description: 请附上可核对的官方来源，不填写私人账号信息。
+    validations:
+      required: true

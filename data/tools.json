@@ -1,0 +1,65 @@
+{
+  "reviewed_on": "2026-11-05",
+  "tools": [
+    {
+      "name": "Codex",
+      "category": "AI 编程与终端智能体",
+      "url": "https://github.com/openai/codex",
+      "description": "在终端中处理代码仓库任务的编程智能体。"
+    },
+    {
+      "name": "Claude Code",
+      "category": "AI 编程与终端智能体",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "通过自然语言在终端中理解代码、修改项目和处理开发任务。"
+    },
+    {
+      "name": "Cursor",
+      "category": "AI 编程与终端智能体",
+      "url": "https://cursor.com/",
+      "description": "将 AI 编程能力融入代码编辑与项目开发流程。"
+    },
+    {
+      "name": "Cline",
+      "category": "AI 编程与终端智能体",
+      "url": "https://github.com/cline/cline",
+      "description": "提供 IDE 扩展、CLI 和 SDK 形态的编程智能体。"
+    },
+    {
+      "name": "Aider",
+      "category": "AI 编程与终端智能体",
+      "url": "https://github.com/Aider-AI/aider",
+      "description": "在终端中与 AI 协作修改代码。"
+    },
+    {
+      "name": "Continue",
+      "category": "AI 编程与终端智能体",
+      "url": "https://github.com/continuedev/continue",
+      "description": "可用于个人开发流程的开源编程智能体。"
+    },
+    {
+      "name": "v0",
+      "category": "界面与应用原型",
+      "url": "https://v0.app/",
+      "description": "通过自然语言生成界面与 Web 应用原型。"
+    },
+    {
+      "name": "Ollama",
+      "category": "模型运行",
+      "url": "https://github.com/ollama/ollama",
+      "description": "运行和使用开放模型的工具。"
+    },
+    {
+      "name": "Supabase",
+      "category": "应用后端与部署",
+      "url": "https://supabase.com/",
+      "description": "基于 Postgres，提供数据库、认证和存储等应用后端能力。"
+    },
+    {
+      "name": "Vercel",
+      "category": "应用后端与部署",
+      "url": "https://vercel.com/",
+      "description": "用于 Web 应用部署与运行的平台。"
+    }
+  ]
+}

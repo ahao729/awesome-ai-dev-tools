@@ -1,0 +1,23 @@
+name: 推荐工具
+description: 推荐适合个人 AI 开发者的工具
+title: "[推荐] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 工具名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 官方链接
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: 适用任务与推荐理由
+      description: 说明你实际使用或核对过的场景。
+    validations:
+      required: true
