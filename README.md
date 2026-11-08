@@ -27,6 +27,7 @@ A curated resource list for individual AI developers, maintained by **栈引 Zha
 | Cline | 提供 IDE 扩展、CLI 和 SDK 形态的编程智能体。 | [官网 / 项目](https://github.com/cline/cline) |
 | Aider | 在终端中与 AI 协作修改代码。 | [官网 / 项目](https://github.com/Aider-AI/aider) |
 | Continue | 可用于个人开发流程的开源编程智能体。 | [官网 / 项目](https://github.com/continuedev/continue) |
+| agent-qa | 通过 CLI/MCP 用自然语言测试 Web、Android 和 iOS，结合 memidex 记忆、自我改进与可复查运行证据。 | [官网 / 项目](https://vostride.com) |
 
 ### 界面与应用原型
 
