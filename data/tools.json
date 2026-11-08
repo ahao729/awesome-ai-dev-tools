@@ -38,6 +38,12 @@
       "description": "可用于个人开发流程的开源编程智能体。"
     },
     {
+      "name": "agent-qa",
+      "category": "AI 编程与终端智能体",
+      "url": "https://vostride.com",
+      "description": "通过 CLI/MCP 用自然语言测试 Web、Android 和 iOS，结合 memidex 记忆、自我改进与可复查运行证据。"
+    },
+    {
       "name": "v0",
       "category": "界面与应用原型",
       "url": "https://v0.app/",
